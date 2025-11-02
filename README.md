@@ -1,3 +1,3 @@
 # Proj_DFU
 
-- This repo contains something for some reason.
+- This repo will contain the code for the DFU project.
